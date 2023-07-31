@@ -11,11 +11,12 @@ Modo darkmode
 
 
 Inicializar antes de empezar a utilizar:
--npm i
---npm i uuid
+
+- npm i
+- npm i uuid
 - code .
 - npm run dev
 
 En otra terminal inicializamos 
-
---npx json-server --watch db.json
+- npx json-serve
+- npx json-server --watch db.json
