@@ -7,3 +7,15 @@ Modo normal
 Modo darkmode
 ------
 ![Image text](https://raw.githubusercontent.com/Byrontosh/plantilla-react-fundamentos/main/src/assets/logo-dark.png)
+
+
+
+Inicializar antes de empezar a utilizar:
+-npm i
+--npm i uuid
+- code .
+- npm run dev
+
+En otra terminal inicializamos 
+
+--npx json-server --watch db.json
